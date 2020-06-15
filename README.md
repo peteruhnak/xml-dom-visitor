@@ -1,3 +1,9 @@
+# **REPO MIGRATED TO https://github.com/OpenPonk/xml-dom-visitor**
+
+I no longer maintain this project, please follow the link above.
+
+---
+
 # XML DOM Visitor
 [![Build Status](https://travis-ci.org/peteruhnak/xml-dom-visitor.svg?branch=master)](https://travis-ci.org/peteruhnak/xml-dom-visitor) [![Coverage Status](https://coveralls.io/repos/github/peteruhnak/xml-dom-visitor/badge.svg?branch=master)](https://coveralls.io/github/peteruhnak/xml-dom-visitor?branch=master)
 
